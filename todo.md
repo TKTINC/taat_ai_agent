@@ -16,6 +16,13 @@
 - [x] Set up Docker-based local development environment
 - [x] Implement pytest testing framework
 
+### Phase 2: Memory Systems
+- [ ] Implement episodic memory with vector database integration
+- [ ] Create semantic memory for trader profiles and market knowledge
+- [ ] Develop procedural memory for action patterns
+- [ ] Build memory integration and unified memory manager
+- [ ] Implement persistence layer for long-term storage
+
 ## Workstream 2: Perception Systems
 ### Phase 1: Social Media Monitoring
 - [ ] Implement X (Twitter) API integration
